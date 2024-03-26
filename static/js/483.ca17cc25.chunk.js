@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkPaddleMatch=self.webpackChunkPaddleMatch||[]).push([[483],{11483:(e,a,r)=>{r.r(a),r.d(a,{LegalPrivacyPage:()=>n});var l=r(65043),s=r(17592);const t={wrapper:"LegalPrivacyPage_wrapper__lwebH"};var c=r(70579);function n(){const{templates:{legalPrivacy:e}}=(0,l.useContext)(s.v);return(0,c.jsx)("div",{className:t.wrapper,children:(0,c.jsx)("div",{dangerouslySetInnerHTML:{__html:e.body}})})}}}]);
+//# sourceMappingURL=483.ca17cc25.chunk.js.map
