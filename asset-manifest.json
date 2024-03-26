@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/paddlematch.github.io/static/css/main.6ab8a337.css",
-    "main.js": "/paddlematch.github.io/static/js/main.3e53fa0b.js",
+    "main.js": "/paddlematch.github.io/static/js/main.d12d35f4.js",
     "static/js/962.21c96cd9.chunk.js": "/paddlematch.github.io/static/js/962.21c96cd9.chunk.js",
     "static/css/411.6f0f1bc2.chunk.css": "/paddlematch.github.io/static/css/411.6f0f1bc2.chunk.css",
     "static/js/411.77e8ea0d.chunk.js": "/paddlematch.github.io/static/js/411.77e8ea0d.chunk.js",
@@ -49,7 +49,7 @@
     "static/media/inter-latin-400-normal.woff": "/paddlematch.github.io/static/media/inter-latin-400-normal.f60fc6e27a1216af5719.woff",
     "index.html": "/paddlematch.github.io/index.html",
     "main.6ab8a337.css.map": "/paddlematch.github.io/static/css/main.6ab8a337.css.map",
-    "main.3e53fa0b.js.map": "/paddlematch.github.io/static/js/main.3e53fa0b.js.map",
+    "main.d12d35f4.js.map": "/paddlematch.github.io/static/js/main.d12d35f4.js.map",
     "962.21c96cd9.chunk.js.map": "/paddlematch.github.io/static/js/962.21c96cd9.chunk.js.map",
     "411.6f0f1bc2.chunk.css.map": "/paddlematch.github.io/static/css/411.6f0f1bc2.chunk.css.map",
     "411.77e8ea0d.chunk.js.map": "/paddlematch.github.io/static/js/411.77e8ea0d.chunk.js.map",
@@ -94,6 +94,6 @@
   },
   "entrypoints": [
     "static/css/main.6ab8a337.css",
-    "static/js/main.3e53fa0b.js"
+    "static/js/main.d12d35f4.js"
   ]
 }
